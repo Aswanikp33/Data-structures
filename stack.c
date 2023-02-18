@@ -15,7 +15,7 @@ void main()
 int opt;
 do
 {
-printf("\nEnter the choice:\n1.push\n2.pop\n3.display\n4.exit");
+printf("\nEnter the choice:\n1.push\n2.pop\n3.display\n4.exit\n");
 scanf("%d",&opt);
 switch(opt)
 {
